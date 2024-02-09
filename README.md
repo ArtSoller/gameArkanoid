@@ -23,7 +23,8 @@ This site offers the user to play a long-standing game developed back in the 90'
 This site offers to enjoy the game, which for some is a game of childhood, to pass the time or have a good time.
 
 ### Examples of site work
-![1](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_1.png)
-![2](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_2.png)
-![3](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_3.png)
-![4](https://github.com/ArtSoller/coffeeSite/blob/main/img/picture_4.png)
+![1](https://github.com/ArtSoller/gameArkanoid/blob/main/img/picture_1.png)
+![2](https://github.com/ArtSoller/gameArkanoid/blob/main/img/picture_2.png)
+![3](https://github.com/ArtSoller/gameArkanoid/blob/main/img/picture_3.png)
+![4](https://github.com/ArtSoller/gameArkanoid/blob/main/img/picture_4.png)
+![5](https://github.com/ArtSoller/gameArkanoid/blob/main/img/picture_5.png)
